@@ -1,0 +1,9 @@
+"./targetConfigs/adc_drv.obj"
+"./targetConfigs/ads1015.obj"
+"./targetConfigs/ds1682.obj"
+"./targetConfigs/i2c_drv.obj"
+"./targetConfigs/main.obj"
+"./targetConfigs/tmp101.obj"
+"../lnk_msp430f5438a.cmd"
+-llibmath.a
+-llibc.a
