@@ -1,0 +1,37 @@
+[
+   {
+      "directory" : "C:/Users/Y/Desktop/toygun_v1 - send_info/Debug",
+      "command"   : "clang++ -I\"D:/CCS/ccs/ccs_base/msp430/include\" -I\"C:/Users/Y/Desktop/toygun_v1 - send_info\" -I\"D:/CCS/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430F5438A__ -xc",
+      "file"      : "C:/Users/Y/Desktop/toygun_v1 - send_info/main.c"
+   },
+   {
+      "directory" : "C:/Users/Y/Desktop/toygun_v1 - send_info/Debug",
+      "command"   : "clang++ -I\"D:/CCS/ccs/ccs_base/msp430/include\" -I\"C:/Users/Y/Desktop/toygun_v1 - send_info\" -I\"D:/CCS/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430F5438A__ -xc",
+      "file"      : "C:/Users/Y/Desktop/toygun_v1 - send_info/source/adc_drv.c"
+   },
+   {
+      "directory" : "C:/Users/Y/Desktop/toygun_v1 - send_info/Debug",
+      "command"   : "clang++ -I\"D:/CCS/ccs/ccs_base/msp430/include\" -I\"C:/Users/Y/Desktop/toygun_v1 - send_info\" -I\"D:/CCS/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430F5438A__ -xc",
+      "file"      : "C:/Users/Y/Desktop/toygun_v1 - send_info/source/gpio.c"
+   },
+   {
+      "directory" : "C:/Users/Y/Desktop/toygun_v1 - send_info/Debug",
+      "command"   : "clang++ -I\"D:/CCS/ccs/ccs_base/msp430/include\" -I\"C:/Users/Y/Desktop/toygun_v1 - send_info\" -I\"D:/CCS/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430F5438A__ -xc",
+      "file"      : "C:/Users/Y/Desktop/toygun_v1 - send_info/source/hal_rs422.c"
+   },
+   {
+      "directory" : "C:/Users/Y/Desktop/toygun_v1 - send_info/Debug",
+      "command"   : "clang++ -I\"D:/CCS/ccs/ccs_base/msp430/include\" -I\"C:/Users/Y/Desktop/toygun_v1 - send_info\" -I\"D:/CCS/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430F5438A__ -xc",
+      "file"      : "C:/Users/Y/Desktop/toygun_v1 - send_info/source/i2c_drv.c"
+   },
+   {
+      "directory" : "C:/Users/Y/Desktop/toygun_v1 - send_info/Debug",
+      "command"   : "clang++ -I\"D:/CCS/ccs/ccs_base/msp430/include\" -I\"C:/Users/Y/Desktop/toygun_v1 - send_info\" -I\"D:/CCS/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430F5438A__ -xc",
+      "file"      : "C:/Users/Y/Desktop/toygun_v1 - send_info/source/mb_rs422.c"
+   },
+   {
+      "directory" : "C:/Users/Y/Desktop/toygun_v1 - send_info/Debug",
+      "command"   : "clang++ -I\"D:/CCS/ccs/ccs_base/msp430/include\" -I\"C:/Users/Y/Desktop/toygun_v1 - send_info\" -I\"D:/CCS/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430F5438A__ -xc",
+      "file"      : "C:/Users/Y/Desktop/toygun_v1 - send_info/source/hal_system.c"
+   }
+]
