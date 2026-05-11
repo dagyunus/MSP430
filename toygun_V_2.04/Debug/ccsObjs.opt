@@ -1,0 +1,10 @@
+"./main.obj"
+"./source/adc_drv.obj"
+"./source/gpio.obj"
+"./source/hal_rs422.obj"
+"./source/hal_system.obj"
+"./source/i2c_drv.obj"
+"./source/mb_rs422.obj"
+"../lnk_msp430f5438a.cmd"
+-llibmath.a
+-llibc.a
